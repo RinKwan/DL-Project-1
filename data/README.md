@@ -1,7 +1,6 @@
 # Data folder
 
-The competition data is **not** included in this repository. Download it from
-the course page and put it here, so that the scripts find it at `data/`:
+The competition data is included in this repository. 
 
 ```
 data/
