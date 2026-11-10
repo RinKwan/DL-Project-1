@@ -1,6 +1,6 @@
 # Data folder
 
-The competition data is included in this repository. 
+The competition data is **not** included in this repository. Please download it from th website.
 
 ```
 data/
