@@ -1,0 +1,12 @@
+# Tested with Python 3.10 and PyTorch 2.5.1 (CUDA 12.1).
+#
+# Install the PyTorch wheel that matches your CUDA version first, otherwise pip
+# gives you the CPU build:
+#   pip install torch --index-url https://download.pytorch.org/whl/cu121
+# Training on the CPU is possible but very slow (about 6 hours per run instead
+# of 100 minutes).
+
+torch>=2.3          # torch.amp.GradScaler(device) needs 2.3 or newer
+numpy>=1.24
+pillow>=10.0        # reading the PNG files
+matplotlib>=3.7     # the confusion matrix in src/evaluate.py
