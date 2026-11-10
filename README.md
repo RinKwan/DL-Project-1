@@ -8,8 +8,8 @@ used anywhere.
 
 | | |
 |---|---|
-| Team | `[Member 1] ([NetID 1]), [Member 2] ([NetID 2])` |
-| Kaggle team name | `[Kaggle Team Name]` |
+| Team | `[Yunfei Quan] ([yq2341]), [Yulong Wang] (yw9562), [Ze Xu] (zx2087)` |
+| Kaggle team name | `Captain American` |
 | Final leaderboard accuracy | **88.6%** (public leaderboard) |
 
 ## Results
